@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**bertao01/bertao01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, I'm Victor Bertão, a web developer !
+### Hi there , I'm Victor Bertão, a web developer ! 👋
 
 - 🔭 I’m currently working on Modern Web Development. 
 - 🌱 I’m currently learning React.
